@@ -2,7 +2,7 @@
 # ![https://mouredev.com](https://raw.githubusercontent.com/JMolinaHN/JMolinaHN/master/JMolinaHN.png) 
 
 Hello, my name is Josué Molina
-### Particle Physcicist
+### Particle Physicist
 
 <!--
 **JMolinaHN/JMolinaHN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
