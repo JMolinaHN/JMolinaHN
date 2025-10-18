@@ -26,7 +26,7 @@ I also teach and mentor STEM students as **Associate Professor at Zamorano Unive
 ### 🧮 Featured Projects
 | Project | Description |
 |----------|--------------|
-| [`particle_to_ai`](https://github.com/) | Connecting particle physics with neural networks — modeling quantum decay data using ML. |
+| [`particle_analysis`](https://github.com/) | Analysing particle physics with neural networks — modeling quantum decay data using ML. |
 | [`latin_scientist`](https://github.com/) | Bilingual Python notebooks for STEM teaching (Spanish & Portuguese). |
 | [`ai_reasoning_tests`](https://github.com/) | Tools to evaluate reasoning in large language models (Outlier-style evaluation pipelines). |
 | [`physics_olympiad_problems`](https://github.com/) | LaTeX and Python problem sets for training Olympiad students. |
