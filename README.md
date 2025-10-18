@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Josué Rodríguez
+# 👋 Hi, I'm Josué Molina
 
 **Physicist (CERN – LHCb)** • **Data Scientist** • **AI Trainer** • **STEM Educator**  
 🏆 *Breakthrough Prize in Fundamental Physics (2025)*  
