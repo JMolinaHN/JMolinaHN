@@ -10,7 +10,7 @@
 I am a particle physicist and data scientist specializing in **CP violation** and **data-driven modeling**. I earned my Ph.D. in Physics from **PUC-Rio (Brazil)** and completed a postdoctoral fellowship at the **Brazilian Center for Research in Physics (CBPF)**.  
 I’ve been part of the **LHCb Collaboration at CERN**, contributing to analyses that explore matter–antimatter asymmetries and the origin of the universe’s mass balance.
 
-Currently, I bridge **science and AI** — applying rigorous analytical methods to model evaluation, data curation, and AI reasoning training (Outlier, Alignerr, Mercor, Appen).  
+Currently, I bridge **science and AI** — applying rigorous analytical methods to model evaluation, data curation, and AI reasoning training.  
 I also teach and mentor STEM students as **Associate Professor at Zamorano University**, where I helped establish its first-ever collaboration with CERN.
 
 ---
@@ -41,7 +41,7 @@ I share reflections on **quantum mechanics, AI ethics, and the philosophy of tim
 ---
 
 ### 🌐 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/jmolinahn) • [Google Scholar](https://scholar.google.com) • [ORCID](https://orcid.org) • [ResearchGate](https://www.researchgate.net) • [Medium](https://medium.com/@jmolinahn)
+[LinkedIn](https://www.linkedin.com/in/jmolinahn) • [Google Scholar](https://scholar.google.com) • [ORCID](https://orcid.org) • [ResearchGate](https://www.researchgate.net) • [Medium](https://medium.com/@jmolinahn) • [Facebook](https://www.facebook.com/josue.molina.37/) • [X (Twitter)](https://x.com/molinajosue) • [YouTube](https://www.youtube.com/@josuemolina8332) • [Academia.edu](https://josuemolina.academia.edu)
 
 ---
 
